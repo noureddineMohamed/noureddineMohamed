@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/noureddineMohamed/noureddineMohamed/output/snake.svg" alt="Snake animation" />
 
 ###
